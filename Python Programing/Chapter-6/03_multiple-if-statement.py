@@ -20,5 +20,6 @@ elif(a==0):
 
 else:
     print("Your are below the age of consent")
+    # End If statement no: 2
 
 print("Try to enter right age")    
