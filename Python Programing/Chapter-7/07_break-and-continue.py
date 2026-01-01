@@ -1,0 +1,10 @@
+for i in range(100):
+    if(i == 44):
+        break #Exit the loop right now
+    print(i)
+
+
+for i in range(100):
+    if(i == 44):
+        continue #Skip this itration 
+    print(i)
