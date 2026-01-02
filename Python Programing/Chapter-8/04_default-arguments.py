@@ -1,4 +1,6 @@
-def goodday():
-    print("Good Day")
+def goodday(name, ending ="Thank You"):
+    print(f"Good Day, {name}")
+    print(ending)
 
-goodday()    
+goodday("Geetansh", "Thanks")
+goodday("Python") 
