@@ -1,3 +1,4 @@
-with open("f1.txt", "r") as f:
-    data = f.read()
-    print(data)
+f = open("f1.txt", "r")
+data = f.read()
+print(data)
+f.close()
