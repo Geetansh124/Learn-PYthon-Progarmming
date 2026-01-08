@@ -1,2 +1,3 @@
 import math
-math.ceil(49* math.log10(77))
+
+math.ceil(49 * math.log10(77))
