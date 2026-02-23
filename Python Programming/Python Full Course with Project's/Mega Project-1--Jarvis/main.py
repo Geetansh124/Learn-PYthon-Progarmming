@@ -89,7 +89,7 @@ def processCommand(c):
 
 
 if __name__ == "__main__":
-    speak("Hey Geetansh sir How may I help you")
+    speak("Hey Geetansh sir , How may I help you")
     while True:
         # Listen for the wake word "Jarvis"
         # obtain audio from the microphone

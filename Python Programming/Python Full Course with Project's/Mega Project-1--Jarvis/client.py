@@ -3,7 +3,7 @@ from openai import OpenAI
 # Create Perplexity client
 client = OpenAI(
     
-     #"https://api.perplexity.ai"
+     "https://api.perplexity.ai"
 )
 
 response = client.chat.completions.create(

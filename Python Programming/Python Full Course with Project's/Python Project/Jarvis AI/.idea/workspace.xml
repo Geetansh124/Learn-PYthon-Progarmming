@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d79d484a-990f-46f1-8a87-83be92d2049a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Python Full Course with Project's.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Python Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jarvis-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jarvis-1/.idea/Jarvis-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jarvis-1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jarvis-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jarvis-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jarvis-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python Libraries/Data Visualisation/.idea/Data Visualisation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python Libraries/Data Visualisation/Data Visualisation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-1/Practice Sets-1/Problem-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-1/Practice Sets-1/Problem-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-1/Practice Sets-1/Problem-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-1/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-1/second.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/01_Class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/02_instence-vs-class_attributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/03_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/04_constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/Practice Set-10/01_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/Practice Set-10/02_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/Practice Set-10/03_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/Practice Set-10/04_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/Practice Set-10/05_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-10/Practice Set-10/06_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/01_inheritence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/02_mltiple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/03_multiple-inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/04_Super.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/05_Class-methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/06_property-decoraters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/07_operator-overloading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/01_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/02_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/03_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/04_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/05_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/06_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-11/Practice Set-11/07_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/01_walrus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/02_types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/03_match_case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/04_merged-dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/05.file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/06_exception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/07_rising-exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/08_try-else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/09_try-finally.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/10_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/11_global.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/12_enumerate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/13_list-Comprihensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/01_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/02_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/03_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/04_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/05_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/Practice Set-12/tables.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/c11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/dff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-12/tred.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/01_venv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/02_lamda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/03_join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/04_format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/05_map-filter-reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/Problem1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/Problem2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/Problem3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/Problem4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/Problem5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/Problem6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/Pratice Set-13/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/reqirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-13/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/03_rules_variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/04_Operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/05_Type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/06_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/First.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/Practice Sets-2/01_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/Practice Sets-2/02_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/Practice Sets-2/03_problem .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/Practice Sets-2/04_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/Practice Sets-2/05_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-2/Practice Sets-2/06_problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/01_intro_to_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/02_negative_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/03_str_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/04_eacape_seq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/Practice Sets-3/01_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/Practice Sets-3/02_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/Practice Sets-3/03_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/Practice Sets-3/04_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-3/Practice Sets-3/05_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/01_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/02_lists-method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/03_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/04_tuple-method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/Practice Set-4/Problem-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/Practice Set-4/Problen-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/Practice Set-4/Problen-03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/Practice Set-4/Problen-04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-4/Practice Set-4/Problen-05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/01_dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/02_Dictionary_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/03_Sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/04_Sets-Dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/05_Sets_union-intersection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-5/Practice Set-5/Problem-09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/01_Conditional.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/02_if-elif-else-ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/03_multiple-if-statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/04_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Practice Set-6/Problem-07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-6/Quick_Quiz-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/01_Quick_Quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/01_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/02_While-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/03_list-using-while..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/04_for_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/05_for-loop-itrate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/06_for-with-else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/07_break-and-continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/08_pass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/01_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/02_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/03_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/04_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/05_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/06_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/07_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/08_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/09_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-7/Practice Set-7/10_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/01_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/02_Quick-Quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/03_function-with-arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/04_default-arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/05_recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/01_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/02_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/03_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/04_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/05_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/06_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/07_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-8/Practice Set-8/08_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/01_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/02_file-write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/03_more-file--functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/04_append.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/05_with.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/01_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/02_Porblem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/03_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/04_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/05_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/06_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/07_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/08_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/09_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/10_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/11_Problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/hiscore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/old.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/poem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/renamed_by_python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/tables/table_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/this.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/Practice Set-9/this_(copy).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/myfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Chapter-9/poem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Full Python Course/Mega Project-1--Jarvis/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Mega Project -2 --Auto-reply Bot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Mega Project -2 --Auto-reply Bot/program.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Mega Project-1--Jarvis/Mega Project 1 - Jarvis_temp.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Mega Project-1--Jarvis/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Mega Project-1--Jarvis/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Mega Project-1--Jarvis/musicLibrary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Notes/HandWritten_Python_Complete_Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Notes/The Ultimate Python Handbook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Practice--1/Practice-----1/pratice1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Project-1/main-shortend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Project-1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python Full Course/Project-2/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Geetansh124&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Geetansh124/Learn-PYthon-Progarmming.git&quot;,
+    &quot;accountId&quot;: &quot;05834e4b-c59a-4a79-a8aa-06245a3d7be0&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3A16URDybn5yD8qP6ZG6pcY6Qdd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python..venv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Jarvis AI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (Jarvis AI)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name=".venv" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jarvis AI" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/.venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d79d484a-990f-46f1-8a87-83be92d2049a" name="Changes" comment="" />
+      <created>1771747746614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771747746614</updated>
+    </task>
+    <servers />
+  </component>
+</project>
