@@ -225,7 +225,7 @@
 
     1. Clone or download this repository:
     ```bash
-    git clone <https://github.com/Geetansh124/Learn-PYthon-Progarmming.git>
+    git clone https://github.com/Geetansh124/Learn-PYthon-Progarmming.git
     cd "Python Programming"
     ```
 
